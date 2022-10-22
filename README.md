@@ -4,7 +4,7 @@ Below you will find a list of the completed projects I have worked on from Front
 
 ### List of Projects
 
-##CSS projects
+## CSS projects
 
 [Product Preview Card](https://lisahon9780.github.io/Product_Preview_Card/)
 
