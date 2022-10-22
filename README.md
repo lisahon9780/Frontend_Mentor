@@ -2,7 +2,7 @@
 
 Below you will find a list of the completed projects I have worked on from FrontEnd Mentor to sharpen my skills as a Web Developer.
 
-### List of Projects
+# List of Projects
 
 ## CSS projects
 
