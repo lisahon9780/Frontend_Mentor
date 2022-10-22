@@ -4,11 +4,8 @@ Below you will find a list of the completed projects I have worked on from Front
 
 ### List of Projects
 
+##CSS projects
 
-```markdown
-CSS Project
+[Product Preview Card](https://lisahon9780.github.io/Product_Preview_Card/)
 
-https://lisahon9780.github.io/Product_Preview_Card/
-
-```
 
