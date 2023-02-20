@@ -6,6 +6,5 @@ Below you will find a list of the completed projects I have worked on from vario
 
 [Product Preview Card](https://lisahon9780.github.io/Product_Preview_Card/)
 
-[Company Website](lisahon9780.github.io/Company Website(Bootstrap)/)
 
 
