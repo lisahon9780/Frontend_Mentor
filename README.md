@@ -15,3 +15,5 @@ Below you will find a list of the completed projects I have worked on from vario
 [Drawing App](https://lisahon9780.github.io/Drawing-App/)
 
 [Simple Math Game](https://lisahon9780.github.io/Simple-Math-Game/)
+
+[Photo Gallery](https://lisahon9780.github.io/Photo-Gallery/)
